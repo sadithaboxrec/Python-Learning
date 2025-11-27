@@ -2,7 +2,7 @@ import time
 
 def main():
     timerCal()
-    print("Time is Over")
+    print("Your Time is Over")
 
 
 def timerCal():
